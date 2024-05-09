@@ -8,7 +8,7 @@ python3 train_llama.py --model_name LlamaTranslator \
     -lr1 0.00005 \
     -lr2 0.0000005 \
     -b 32 \
-    -s ./checkpoints2/decoding \
+    -s ./checkpoints_llama/decoding \
     -cuda cuda:0
 
 
