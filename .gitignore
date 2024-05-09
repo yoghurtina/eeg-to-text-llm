@@ -7,3 +7,6 @@ dataset
 util/__pycache__
 results
 checkpoints
+llama2
+llama3
+llama2-hf
