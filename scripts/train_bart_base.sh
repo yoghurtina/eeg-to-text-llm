@@ -1,0 +1,12 @@
+python3 train_bart_base.py --model_name BrainTranslator \
+    --task_name task1_task2 \
+    --one_step \
+    --pretrained \
+    --not_load_step1_checkpoint \
+    --num_epoch_step1 20 \
+    --num_epoch_step2 30 \
+    -lr1 0.00002 \
+    -lr2 0.00002 \
+    -b 32 \
+    -s ./checkpoints_bart_base/decoding \
+    -cuda cuda:0
