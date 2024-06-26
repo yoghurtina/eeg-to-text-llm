@@ -15,9 +15,12 @@ dependencies:
   - transformers=4.6.1
   - nltk=3.5
   - pip=21.0.1
+  - sentencepiece
   - pip:
     - fuzzy-match==0.0.1
     - rouge==1.0.0
+    - torchmetrics
+    - evaluate
 
 
 
