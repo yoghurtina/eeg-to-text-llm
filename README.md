@@ -1,6 +1,7 @@
 # EEG-to-Text-LLM
 
-This repository contains the implementation for converting EEG signals to text using various pre-trained language models such as BART, T5, and Llama 2.
+This repository contains the implementation for converting EEG signals to text using various pre-trained language models such as BART, T5, and Llama 2. 
+It is based on the [EEG-to-Text](https://github.com/MikeWangWZHL/EEG-To-Text) codes & implementation. 
 
 ## Table of Contents
 
