@@ -9,4 +9,5 @@ results
 checkpoints_bart_base
 checkpoints_bart_large
 checkpoints_t5
+batch_output
 
