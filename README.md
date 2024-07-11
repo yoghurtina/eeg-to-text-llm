@@ -29,10 +29,10 @@ The repository contains several directories and files crucial for running the EE
 - `config.py`, `config_t5.py`: Configuration files for different models.
 - `data.py`: Scripts for data handling and processing.
 - `environment.yml`: Environment setup file.
-- `eval_*.py`: Evaluation scripts for different models.
+- `eval/`: Evaluation scripts for different models.
 - `metrics.py`: Script for calculating evaluation metrics.
-- `model_*.py`: Model definitions for different architectures.
-- `train_*.py`: Training scripts for different models.
+- `model/`: Model definitions for different architectures.
+- `train/`: Training scripts for different models.
 
 ## Setting Up the Environment
 
